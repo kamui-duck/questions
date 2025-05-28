@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "level": 1,
+    "question_jp": "この犬（　）は足がとても長いです。",
+    "translations": {
+      "en": "This dog has very long legs.",
+      "zh": "这只狗的腿非常长。",
+      "es": "Este perro tiene las patas muy largas.",
+      "nb": "Denne hunden har veldig lange bein.",
+      "nn": "Denne hunden har veldig lange bein."
+    },
+    "choices": ["は", "が"],
+    "correct": "は",
+    "explanation_jp": "「この犬」は話題を示す主題なので「は」が正解です。",
+    "explanations": {
+      "en": "「この犬」は話題を示す主題なので「は」が正解です。",
+      "zh": "「この犬」表示主题，因此正确的是「は」。",
+      "es": "「この犬」 indica el tema, por lo que «は» es correcto.",
+      "nb": "«この犬» er temaet, derfor er «は» korrekt.",
+      "nn": "«この犬» er temaet, derfor er «は» korrekt."
+    }
+  },
+  {
+    "id": 2,
+    "level": 2,
+    "question_jp": "何（　）起こったのか、わかりません。",
+    "translations": {
+      "en": "I don't know what happened.",
+      "zh": "我不知道发生了什么。",
+      "es": "No sé qué pasó.",
+      "nb": "Jeg vet ikke hva som skjedde.",
+      "nn": "Eg veit ikkje kva som skjedde."
+    },
+    "choices": ["は", "が"],
+    "correct": "が",
+    "explanation_jp": "「何」が主語で新情報のため、「が」が正解です。",
+    "explanations": {
+      "en": "「何」が主語で新情報のため、「が」が正解です。",
+      "zh": "「何」是主语，表示新信息，所以用「が」正确。",
+      "es": "「何」 es el sujeto y representa nueva información, por eso «が» es correcto.",
+      "nb": "«何» er subjektet og ny informasjon, derfor er «が» korrekt.",
+      "nn": "«何» er subjektet og ny informasjon, derfor er «が» korrekt."
+    }
+  }
+]
